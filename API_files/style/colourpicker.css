@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 .colorpicker {
   position: relative;
   background: #000;
@@ -114,7 +115,7 @@ html {
 
 body {
   min-height: 100vh;
-  font-family: 'Roboto', Arial;
+  font-family: 'Roboto', sans-serif;
   color: #ADAFB6;
   display: flex;
   justify-content: center;
