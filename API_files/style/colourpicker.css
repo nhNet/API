@@ -114,7 +114,7 @@ html {
 
 body {
   min-height: 100vh;
-  font-family: Roboto, Arial;
+  font-family: 'Roboto', Arial;
   color: #ADAFB6;
   display: flex;
   justify-content: center;
