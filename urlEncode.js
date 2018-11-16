@@ -13,11 +13,11 @@ function checkurl(params,whattodo,iferror){
       variable=variable.split(',');
       for(l=0;l<params.length;l++){
         if(variable.includes(params[l])==true){
-          eval(whattodo[l]);
+          whattodo[l];
         }
       }
   }catch(err){
     //Execute as normal
-    eval(iferror)
+    iferror;
   }
 }
