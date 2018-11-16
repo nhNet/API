@@ -1,3 +1,4 @@
+//Nicholas Huaman 2018
 function checkurl(params,whattodo,iferror){
   try{
       var variable=window.location.toString();
